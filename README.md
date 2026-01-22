@@ -17,3 +17,7 @@
 - `npm init -y` (sets up a node project)
 - `npm run serve` (runs our application)
 - Check package.json file (what is it?)
+
+## Questions and notes
+
+1. What do the different commands in the app.js file mean? (based on the starter code from [express.com](https://expressjs.com/))
